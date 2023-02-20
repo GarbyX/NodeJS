@@ -1,2 +1,2 @@
 # NodeJS
-Node JS backend codes
+Node JS application for QR code generation 
